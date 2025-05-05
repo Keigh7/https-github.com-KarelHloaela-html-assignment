@@ -5,14 +5,14 @@
  This has the links to all the sections and pages of the site.
  Ensures users can move between sections without confusion.
 
- #Section
+ # Section
  This is the first thing the users sees and it has information about the site
  Contains Multimedia Intergration
   Images
   Animated ELEMENTS
   Call to Action (CTA)
 
-  #Article section
+  # Article section
   This section contains the content that adds more info to the site.
   e.g Skills 
 

@@ -20,5 +20,11 @@
   
   e.g Skills 
 
+  # Contact Section
+  
+  Provides users with a way to reach out. Also includes social links and important site info.
+  Contact form 
+   
+
   # Footer
   This contains navigation  for navigating the site at ease and copyright information

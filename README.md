@@ -16,6 +16,7 @@
   Call to Action (CTA)
 
   # Article section
+  
   This section contains the content that adds more info to the site.
   
   e.g Skills 
@@ -23,6 +24,7 @@
   # Contact Section
   
   Provides users with a way to reach out. Also includes social links and important site info.
+  
   Contact form 
    
 

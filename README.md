@@ -5,7 +5,7 @@
  This has the links to all the sections and pages of the site.
  Ensures users can move between sections without confusion.
 
- # Section
+ # Main Section
  This is the first thing the users sees and it has information about the site
  Contains Multimedia Intergration
  

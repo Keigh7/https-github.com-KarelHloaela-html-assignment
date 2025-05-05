@@ -17,6 +17,7 @@
 
   # Article section
   This section contains the content that adds more info to the site.
+  
   e.g Skills 
 
   # Footer

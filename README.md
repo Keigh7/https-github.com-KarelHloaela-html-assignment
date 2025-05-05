@@ -8,8 +8,11 @@
  # Section
  This is the first thing the users sees and it has information about the site
  Contains Multimedia Intergration
+ 
   Images
+  
   Animated ELEMENTS
+  
   Call to Action (CTA)
 
   # Article section

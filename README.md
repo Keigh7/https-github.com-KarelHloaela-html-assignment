@@ -6,6 +6,15 @@
  Ensures users can move between sections without confusion.
 
  # Main Section
+ Main is the parent to all the parts of the site.
+
+ These sections will be under the main section/div
+
+ Section
+
+ Article
+
+ # Section
  This is the first thing the users sees and it has information about the site
  Contains Multimedia Intergration
  

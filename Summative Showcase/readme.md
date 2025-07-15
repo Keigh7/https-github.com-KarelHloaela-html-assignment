@@ -10,10 +10,10 @@ Welcome to my personal portfolio website. This project showcases who I am, what 
 
 ##  Pages Included
 
-- `index.html – Home page with my intro and profile photo
-- `about.html – More about me and my background
-- `projects.html – Some of the projects I've worked on
-- `contact.html – A working contact form with JavaScript popup
+- index.html – Home page with my intro and profile photo
+- about.html – More about me and my background
+- projects.html – Some of the projects I've worked on
+- contact.html – A working contact form with JavaScript popup
 
 ##  Features
 

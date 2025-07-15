@@ -1,0 +1,40 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contact - Karel Hloaela</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/style.css" />
+  <script defer src="js/script.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Contact Me</h1>
+    <nav>
+      <button class="hamburger" id="hamburger">&#9776;</button>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <form id="contactForm">
+      <label>Name:<input type="text" id="name" required /></label>
+      <label>Email:<input type="email" id="email" required /></label>
+      <label>Message:<textarea id="message" required></textarea></label>
+      <button type="submit">Send</button>
+    </form>
+    <div id="popup" class="popup">
+      <p>Thank you! Your message has been sent.</p>
+      <button onclick="closePopup()">Close</button>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 Karel Hloaela</p>
+  </footer>
+</body>
+</html>
